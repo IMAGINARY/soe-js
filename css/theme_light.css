@@ -11,6 +11,15 @@ body {
 .lang-pt .header h1 {
   background-image: url("../img/light/logo_pt_light.png"); }
 
+.lang-fr .header h1 {
+  background-image: url("../img/light/logo_fr_light.png"); }
+
+.lang-es .header h1 {
+  background-image: url("../img/light/logo_es_light.png"); }
+
+.lang-ca .header h1 {
+  background-image: url("../img/light/logo_ca_light.png"); }
+
 .header ul.lang-selector li a {
   color: #808080; }
   .header ul.lang-selector li a:hover {
@@ -55,7 +64,7 @@ body {
   font-weight: 400;
   background-color: #adadad; }
   .controls-projections [data-ui-projection].active, .controls-projections [data-ui-projection]:hover {
-    background-color: #f3c36a; }
+    background-color: #d2f1fc; }
 
 .help-banner-left {
   background-color: #a6dae4; }
@@ -67,12 +76,12 @@ body {
       background-color: #a6dae4; }
 
 .help-banner-right {
-  background-color: #f3c36a; }
+  background-color: #d2f1fc; }
   .help-banner-right:before {
-    background-color: #f3c36a; }
+    background-color: #d2f1fc; }
   .help-banner-right:hover {
-    background-color: #f3c36a; }
+    background-color: #d2f1fc; }
     .help-banner-right:hover:before {
-      background-color: #f3c36a; }
+      background-color: #d2f1fc; }
 
 /*# sourceMappingURL=theme_light.css.map */
